@@ -1,0 +1,22 @@
+# Fichiers et dossiers à ignorer pour le projet restic-backup
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+restic-backup.env
+restic-restore.env
+*.bak
+*.tmp
+*.cache
+*.egg-info/
+.DS_Store
+.idea/
+.vscode/
+
+# Exclure les dossiers de restauration et de sauvegarde temporaires
+restic-restore/
+restic-backup/
+
+

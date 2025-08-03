@@ -1,0 +1,11 @@
+*.tmp
+*.cache
+*/.cache/*
+*/.local/share/Trash/*
+*/.mozilla/firefox/*/Cache/*
+*/.steam/*
+*/node_modules/*
+*/__pycache__/*
+*.pyc
+*/.git/*
+*/Downloads/*
